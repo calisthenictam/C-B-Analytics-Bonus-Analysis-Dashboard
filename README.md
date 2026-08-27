@@ -90,4 +90,5 @@ This project demonstrates an end-to-end analytics workflow:
 
 ## Dashboard Preview
 
-https://github.com/calisthenictam/C-B-Analytics-Bonus-Analysis-Dashboard/blob/main/Sales%20and%20Bonus%20Analysis%20Dashboard.png
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/calisthenictam/C-B-Analytics-Bonus-Analysis-Dashboard/blob/main/Sales%20and%20Bonus%20Analysis%20Dashboard.png)
